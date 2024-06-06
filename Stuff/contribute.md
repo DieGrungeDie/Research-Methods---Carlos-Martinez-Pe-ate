@@ -95,7 +95,7 @@ ___
 [UHaifa](https://en.wikipedia.org/wiki/University_of_Haifa)
 
 ### Image
-![HaifaUlogo](https://en.wikipedia.org/wiki/University_of_Haifa#/media/File:Haifa_logo_official_apperence_dark_(cropped).png)
+![HaifaUlogo](/Users/carlosmartinez/Documents/GitHub/Research-Methods---Carlos-Martinez-Pe-ate/Image/Haifa_logo_official_apperence_dark_(cropped).png)
 
 ## 4. Tables
 
