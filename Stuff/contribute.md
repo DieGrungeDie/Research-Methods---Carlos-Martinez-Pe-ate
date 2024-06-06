@@ -92,10 +92,10 @@ ___
 ## 3. Links and Images
 
 ### Link
-[OpenAI](https://www.openai.com)
+[UHaifa](https://en.wikipedia.org/wiki/University_of_Haifa)
 
 ### Image
-![OpenAI Logo](https://www.openai.com/assets/images/logo.svg)
+![OpenAILogo](https://en.wikipedia.org/wiki/University_of_Haifa#/media/File:Haifa_logo_official_apperence_dark_(cropped).png)
 
 ## 4. Tables
 
