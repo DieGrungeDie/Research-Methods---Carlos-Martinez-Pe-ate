@@ -15,14 +15,14 @@
 * ___Bold and italic text with underscores___
 
 ### Strikethrough
-* ~~Strikethrough text~~
+* ~~strikethrough text~~
 
 ### Inline Code
 * Inline code with backticks: `printf("Hello, world!");`
 
 ### Superscript and Subscript
-* Superscript: E=mc^2^
-* Subscript: H~2~O
+* Superscript: E=mc^2
+* Subscript: H<sub>2</sub>O
 
 ### Blockquote with Formatting
 > **Bold text** in a blockquote
@@ -64,7 +64,7 @@
 ___
 
 ### Non-breaking Space
-* Non-breaking space between words: `Hello,&nbsp;world!`
+* Non-breaking space between words: Hello,&nbsp;world!
 
 ### Special Characters
 * Ampersand: &amp;
