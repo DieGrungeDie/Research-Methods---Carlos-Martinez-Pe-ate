@@ -6,7 +6,7 @@ To assess the efficacy of RNALater as a fixative for automatically sampling and 
 ## Sampling Scheme
 The research center receives flowing seawater through a dedicated pumping system. For this experiment, a reservoir is filled by this system with 200L of coastal seawater. Seawater samples are automatically extracted, filtered, and fixed using the "McLane Phytoplankton and Particle Sampler" (PPS). The PPS automatically fixes samples by supplying excess fixative to the filter holder, flooding the filter until the planned retrieval.
 
-![Figure 1: PPS and Reservoir schematic flow diagram](file-4xc0nchKoOI5uboEjJSD1aPc)
+![Figure 1: PPS and Reservoir schematic flow diagram](/Users/carlosmartinez/Documents/GitHub/Research-Methods---Carlos-Martinez-Pe-ate/RNALater Experiment/Images/Filter Support Screen (5).png)
 
 The McLane Phytoplankton and Particle Sampler (PPS) will automatically collect 23 seawater samples (1000 ml/sample, 125 ml/min) from the 200L reservoir over a total of 330 minutes (15 min/sample). Each sample will be filtered and stored on a separate filter holder within the PPS. All filters will be immediately fixed after filtration with RNALater except for controls (see table). All filters, including the controls, will remain inside the PPS during the experiment until the programmed retrieval to test for the efficacy of the in-situ sample conservation over time.
 
@@ -44,7 +44,9 @@ The remaining samples treated with RNALater will be collected at specific time p
 | FIX         | 3              | 3           | 22              | 315                 | FIX-3-3      |
 | CTR         | 14             | 3           | 23              | 330                 | CTR-14-3     |
 
-The fixed and control sample timing is designed to capture variations in the microbial communities, control and fixed samples are taken in an intercalated manner: the fixed sample is taken following the control sample.
+The fixed and control sample timing is designed to capture variations in the microbial communities, control and fixed samples are taken in an intercalated manner: the fixed sample is taken following the control sample. See the graph of a possible variation scenario where the retrieval time is color-coded: pink, blue, green, and yellow for days 0,1,3 and 14 respectively:
+
+![Figure 1: PPS and Reservoir schematic flow diagram](/Users/carlosmartinez/Documents/GitHub/Research-Methods---Carlos-Martinez-Pe-ate/RNALater Experiment/Images/Filter Support Screen (4).png)
 
 ## Optional Environmental Monitoring
 Monitor changes in environmental conditions within the sample round period (CTD, pH, Nutrients).
@@ -63,48 +65,55 @@ Therefore, at least 900 milliliters of RNALater must be prepared to account for 
 ## Priming Procedure
 ### Preparation
 #### Custom Adaptors
-Custom-built to prevent the mix of RNALater with Double Distilled Water (DDW) and maintain sterile conditions during priming.
+To Prevent the mix of RNALater with Double Distilled Water (DDW) and maintain sterile conditions during priming, build custom hose-luer lock adaptors, and connect them to the input and output of the 25-way valve.
 
 #### Disinfection
-Lines and adaptors were disinfected before the procedure by running NaClO 5% through the lines. Filter holders were disconnected from the PPS, disassembled, and all parts disinfected, washed, let dry, reassembled, and reconnected back to the PPS.
+- Disinfect lines and the custom-build adaptor before the priming procedure by running NaClO %5 through the lines. 
+
+- Disconnect the filter holders from the PPS, disassemble and disinfect all parts, wash, let dry, reassemble, and reconnect back to the PPS.
+
 
 ### Filter Holder Disconnection and Line Flushing
 #### Disconnection
-The filter holders are disconnected from the base.
-
+- Disconnect the filter holders from the base.
 #### Flushing
-Both water-up and water-down lines of the filter holder were flushed with DDW to clean the 25 multi-port valves.
+- Flush the filter holder's water-up and water-down lines with DDW to clean the 25 multi-port valves.
 
 ### Reservoir Filling
 #### DDW Reservoirs
 - Number of filter holders: 12
-- Each reservoir was filled with 20 mL of DDW.
+- Fill these reservoirs with 20 mL of DDW.
+
 
 #### RNALater Reservoirs
 - Number of filter holders: 11
-- Each reservoir filled with 20 mL of RNALater.
+- Fill these reservoirs with 20 mL of RNALater.
+
 
 ### Priming with RNALater
-#### Pumping RNALater
-RNALater injected from the water-down line of the filter holder. Ensure the water-down line of the filter holder was free of air.
+#### Priming with RNALater
+- Inject the RNALater from the water-down line of the filter holder (the 25-way valve output).
+- Ensure the water-down line of the filter holder is free of air.
+
 
 #### Reservoir Cap Installation
-Installed the reservoir cap.
+- Install the reservoir cap.
 
 #### Lower Support Screen Installation
-Installed the lower support screen.
+
+- On top of the reservoir cap, install the lower support screen.
+
 
 #### Filter Installation
-Primed the filter with RNALater as it flowed into the filter holder.
+- Install the filter into the filter holder.
 
 #### Upper Support Screen Installation
-Installed the upper filter support screen, sandwiching the filter between the lower and upper support screens.
-
+- Install the upper filter support screen, sandwiching the filter between the lower and upper support screens.
 #### Line Filling
-Continued to pump RNALater into the filter holder until the water-up line was filled.
+-Inject the RNALater into the filter holder until the water-up line is filled.
 
 #### Valve Isolation
-The valve moved to the next port, isolating both lines and leaving the filter primed with RNALater, ready for the filtration process.
+- Move the 25-way valve to the next port, isolating both lines and leaving the filter primed with RNALater, ready for filtration.
 
 ### Priming with DDW
-Followed the same procedure as above, substituting RNALater with DDW.
+- Follow the same procedure as above, substituting RNALater with DDW.
