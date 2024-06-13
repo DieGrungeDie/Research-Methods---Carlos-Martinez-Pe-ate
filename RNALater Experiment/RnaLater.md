@@ -46,7 +46,7 @@ The remaining samples treated with RNALater will be collected at specific time p
 
 The fixed and control sample timing is designed to capture variations in the microbial communities, control and fixed samples are taken in an intercalated manner: the fixed sample is taken following the control sample. See the graph of a possible variation scenario where the retrieval time is color-coded: pink, blue, green, and yellow for days 0,1,3 and 14 respectively:
 
-![Figure 1: PPS and Reservoir schematic flow diagram](/Users/carlosmartinez/Documents/GitHub/Research-Methods---Carlos-Martinez-Pe-ate/RNALater Experiment/Images/Filter Support Screen (4).png)
+![Figure 1: PPS and Reservoir schematic flow diagram](https://github.com/DieGrungeDie/Research-Methods---Carlos-Martinez-Pe-ate/blob/main/RNALater%20Experiment/Images/Filter%20Support%20Screen%20(4).png)
 
 ## Optional Environmental Monitoring
 Monitor changes in environmental conditions within the sample round period (CTD, pH, Nutrients).
