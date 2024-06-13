@@ -64,6 +64,7 @@ Therefore, at least 900 milliliters of RNALater must be prepared to account for 
 
 ## Priming Procedure
 ### Preparation
+Based on: [PPS manual by Mclane](https://mclanelabs.com/pps-manual/)
 #### Custom Adaptors
 To Prevent the mix of RNALater with Double Distilled Water (DDW) and maintain sterile conditions during priming, build custom hose-luer lock adaptors, and connect them to the input and output of the 25-way valve.
 
