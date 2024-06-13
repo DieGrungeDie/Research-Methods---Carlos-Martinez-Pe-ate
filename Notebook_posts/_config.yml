@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name:
+name: Carlos Martinez
 
 # Short bio or description (displayed in the header)
-description:
+description: MSc. Candidate
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: ""
@@ -18,10 +18,10 @@ avatar: ""
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: queridogrunge@gmail.com
+  facebook: 
   flickr:
-  github:
+  github:https://github.com/DieGrungeDie
   instagram:
   linkedin:
   pinterest:
@@ -44,7 +44,7 @@ google_analytics:
 url: ""
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
+# (https://github.com/DieGrungeDie/Research-Methods---Carlos-Martinez-Pe-ate/tree/main/Notebook_posts/_posts)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/"
